@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC809C2-D2A7-4CA4-9AEB-B766EAFFB4F5}|Baitap4\\Baitap4.csproj|c:\\users\\admin\\documents\\ueh\\freshmen - period 2\\data structures and algorithms_\u0111\u1EB7ng ng\u1ECDc ho\u00E0ng th\u00E0nh\\tasks\\baitap4\\baitap4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC809C2-D2A7-4CA4-9AEB-B766EAFFB4F5}|Baitap4\\Baitap4.csproj|solutionrelative:baitap4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC809C2-D2A7-4CA4-9AEB-B766EAFFB4F5}|Baitap4\\Baitap4.csproj|C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap4\\baitap4\\timing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC809C2-D2A7-4CA4-9AEB-B766EAFFB4F5}|Baitap4\\Baitap4.csproj|solutionrelative:baitap4\\timing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Timing.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap4\\Baitap4\\Timing.cs",
+              "RelativeDocumentMoniker": "Baitap4\\Timing.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap4\\Baitap4\\Timing.cs",
+              "RelativeToolTip": "Baitap4\\Timing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T13:45:32.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap4\\Baitap4\\Program.cs",
+              "RelativeDocumentMoniker": "Baitap4\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\UEH\\Freshmen - Period 2\\Data Structures and Algorithms_\u0110\u1EB7ng Ng\u1ECDc Ho\u00E0ng Th\u00E0nh\\Tasks\\Baitap4\\Baitap4\\Program.cs*",
+              "RelativeToolTip": "Baitap4\\Program.cs*",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T04:05:18.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
