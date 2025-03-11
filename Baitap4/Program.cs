@@ -67,16 +67,34 @@ namespace Baitap4
         }
         static void Main(string[] args)
         {
-            int[] Arr = { 2, 6, 9, 15, 10, 20, 14 };
-            int x = 14;
-            int[] ArrCopy = (int[])Arr.Clone();
-            Array.Sort(ArrCopy);
+            Random rand = new Random();
+            int[] ArrO = new int[10];
+            int[] Index = new int[10];
+            for (int i = 0; i < 10; i++)
+            {
+                ArrO[i] = rand.Next(1, 100);
+                Index[i] = i;
+            }
+            foreach (int Arr in ArrO)
+            {
+                Console.Write(Arr + " ");
+            }
+            Console.WriteLine();
+            int x = Convert.ToInt32(Console.ReadLine());
+            int[] ArrCopy = (int[])ArrO.Clone();
+            Array.Sort(ArrCopy, Index);
             int r1 = BinSearch(ArrCopy, x);
             int r2 = BinSearchRand(ArrCopy, x);
             int r3 = TriSearch(ArrCopy, x);
-            Console.WriteLine(r1);
-            Console.WriteLine(r2);
-            Console.WriteLine(r3);
+            if (r1 != -1 && r2 != -1 && r3 != -1) 
+            {
+                r1 = Index[r1];
+                r2 = Index[r2];
+                r3 = Index[r3];
+            }            
+            Console.WriteLine($"{x} nằm ở vị trí {r1}");
+            Console.WriteLine($"{x} nằm ở vị trí {r2}");
+            Console.WriteLine($"{x} nằm ở vị trí {r3}");
 
             Timing t = new Timing();
             int ntimes = 10000;
